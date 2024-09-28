@@ -1,4 +1,5 @@
 # Pixabay Image Gallery
+(Note: This Repo i have created only for Web Build So won't Work For Android Studio)
 
 ## Overview
 A Flutter application that showcases a gallery of images retrieved from the Pixabay API. The app features infinite scrolling, allowing users to load more images seamlessly as they scroll down.
