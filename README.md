@@ -11,9 +11,13 @@ A Flutter application that showcases a gallery of images retrieved from the Pixa
 ## Technologies Used
 - Flutter
 - Dart
+- http
 - Pixabay API
 - MasonryGridView package
 - Google Fonts package
+
+## WebAppLink:
+-
 
 ## Installation
 To run this project, you need to have Flutter installed on your machine. Follow these steps to get started:
